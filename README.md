@@ -13,18 +13,18 @@ The optimal lambda minimizes cross-validated MSE. Parental doctoral education wa
 
 | Subject | Plot |
 |---------|------|
-| Math | ![LASSO Math](plots/lasso_mathh.png) |
-| Reading | ![LASSO Reading](plots/lasso_readd.png) |
-| Science | ![LASSO Science](plots/lasso_sciee.png) |
+| Math | ![LASSO Math](lasso_math.png) |
+| Reading | ![LASSO Reading](lasso_reading.png) |
+| Science | ![LASSO Science](lasso_science.png) |
 
 ## KNN Residual Plots
 Residuals are plotted against predicted values. Points scattered randomly around zero indicate a well-fitted model.
 
 | Subject | Plot |
 |---------|------|
-| Math | ![Residual Math](plots/residual_mathh.png) |
-| Reading | ![Residual Reading](plots/residual_readd.png) |
-| Science | ![Residual Science](plots/residual_sciee.png) |
+| Math | ![Residual Math](residual_math.png) |
+| Reading | ![Residual Reading](residual_reading.png) |
+| Science | ![Residual Science](residual_science.png) |
 
 ## Model Performance
 
